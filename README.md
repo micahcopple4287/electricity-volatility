@@ -101,4 +101,4 @@ streamlit run app/dashboard.py
 
 ## Contact
 
-Micah Copple | [micahcopple.netlify.app](https://micahcopple.netlify.app) | micahcopple@gmail.com
+Micah Copple | [Website](https://micahcopple.netlify.app) | micahcopple@gmail.com | [Linkedin](https://www.linkedin.com/in/micah-copple/)
